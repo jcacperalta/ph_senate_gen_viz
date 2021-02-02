@@ -1,0 +1,459 @@
+﻿congress_number,congress_start_year,position,last_name,first_name,middle_initial,nickname,suffix,birthday,birthplace,residence
+18,2019,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+18,2019,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+18,2019,Senator,Zubiri,Juan Miguel,F,Migz,,4/13/1969,Makati City,Bukidnon
+18,2019,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+18,2019,Senator,Angara,Juan Edgardo,M,Sonny,,7/15/1972,Manila,Aurora
+18,2019,Senator,Binay,Maria Lourdes Nancy,S,Nancy,,5/12/1973,Makati City,Makati City
+18,2019,Senator,Cayetano,Pia Juliana,S,Pia,,5/22/1966,Taguig City,Taguig City
+18,2019,Senator,De Lima,Leila Norma Eulalia Josefa,M,Leila,,8/27/1959,Camarines Sur,Camarines Sur
+18,2019,Senator,Dela Rosa,Ronald ,M,Bato,,1/21/1962,Davao del Sur,Davao del Sur
+18,2019,Senator,Gatchalian,Sherwin,T,Win,,4/6/1974,Valenzuela City,Valenzuela City
+18,2019,Senator,Go,Christopher Lawrence,T,Bong,,6/14/1974,Davao City,Davao City
+18,2019,Senator,Gordon,Richard,J,Dick,Sr,8/5/1945,Zambales,Zambales
+18,2019,Senator,Hontiveros,Ana Theresia,N,Risa,,8/24/1966,Manila,Manila
+18,2019,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+18,2019,Senator,Lapid,Manuel,M,Lito,,10/25/1955,Pampanga,Pampanga
+18,2019,Senator,Marcos,Maria Imelda Josefa,R,Imee,,11/12/1955,Mandaluyong City,Ilocos Sur
+18,2019,Senator,Pacquiao,Emmanuel,D,Manny,,12/17/1978,Bukidnon,Saranggani
+18,2019,Senator,Pangilinan,Francis,,Kiko,,8/24/1963,Pampanga,Quezon City
+18,2019,Senator,Pimentel,Aquilino,,Koko,III,1/20/1964,Cagayan de Oro,Cagayan de Oro
+18,2019,Senator,Poe,Mary Grace Natividad ,L,Grace,,9/3/1968,Iloilo City,Quezon City
+18,2019,Senator,Revilla,Ramon,,Bong,Jr,9/25/1966,Cavite,Cavite
+18,2019,Senator,Tolentino,Francis,N,Tol,,1/3/1960,Albay,Tagaytay City
+18,2019,Senator,Villanueva,Emmanuel Joel,J,Joel,,8/2/1975,Bulacan,Bulacan
+18,2019,Senator,Villar,Cynthia,A,,,7/29/1950,Muntinlupa City,Las Pinas City
+17,2016,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+17,2016,Senator,Pimentel,Aquilino,,Koko,III,1/20/1964,Cagayan de Oro,Cagayan de Oro
+17,2016,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+17,2016,Senator,Zubiri,Juan Miguel,F,Migz,,4/13/1969,Makati City,Bukidnon
+17,2016,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+17,2016,Senator,Angara,Juan Edgardo,M,Sonny,,7/15/1972,Manila,Aurora
+17,2016,Senator,Aquino,Paulo Benigno,A,Bam,IV,5/7/1977,Tarlac,Tarlac
+17,2016,Senator,Binay,Maria Lourdes Nancy,S,Nancy,,5/12/1973,Makati City,Makati City
+17,2016,Senator,Cayetano,Alan Peter,S,,,10/28/1970,Taguig City,Taguig City
+17,2016,Senator,De Lima,Leila Norma Eulalia Josefa,M,Leila,,8/27/1959,Camarines Sur,Camarines Sur
+17,2016,Senator,Ejercito,Joseph Victor,G,JV,,12/26/1969,San Juan City,San Juan City
+17,2016,Senator,Escudero,Francis Joseph,G,Chiz,,10/10/1969,Sorsogon Sorsogon,
+17,2016,Senator,Gatchalian,Sherwin,T,Win,,4/6/1974,Valenzuela City,Valenzuela City
+17,2016,Senator,Gordon,Richard,J,Dick,Sr,8/5/1945,Zambales,Zambales
+17,2016,Senator,Honasan,Gregorio,B,Gringo,II,3/14/1948,Baguio City,Manila
+17,2016,Senator,Hontiveros,Ana Theresia,N,Risa,,8/24/1966,Manila,Manila
+17,2016,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+17,2016,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+17,2016,Senator,Pacquiao,Emmanuel,D,Manny,,12/17/1978,Bukidnon,Saranggani
+17,2016,Senator,Pangilinan,Francis,,Kiko,,8/24/1963,Pampanga,Quezon City
+17,2016,Senator,Poe,Mary Grace Natividad ,L,Grace,,9/3/1968,Iloilo City,Quezon City
+17,2016,Senator,Trillanes,Antonio ,F,Sonny,IV,8/6/1971,Caloocan City,Caloocan City
+17,2016,Senator,Villanueva,Emmanuel Joel,J,Joel,,8/2/1975,Bulacan,Bulacan
+17,2016,Senator,Villar,Cynthia,A,,,7/29/1950,Muntinlupa City,Las Pinas City
+16,2013,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+16,2013,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+16,2013,Senator,Cayetano,Alan Peter,S,,,10/28/1970,Taguig City,Taguig City
+16,2013,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+16,2013,Senator,Angara,Juan Edgardo,M,Sonny,,7/15/1972,Manila,Aurora
+16,2013,Senator,Aquino,Paulo Benigno,A,Bam,IV,5/7/1977,Tarlac,Tarlac
+16,2013,Senator,Binay,Maria Lourdes Nancy,S,Nancy,,5/12/1973,Makati City,Makati City
+16,2013,Senator,Cayetano,Pia Juliana,S,Pia,,5/22/1966,Taguig City,Taguig City
+16,2013,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+16,2013,Senator,Ejercito,Joseph Victor,G,JV,,12/26/1969,San Juan City,San Juan City
+16,2013,Senator,Escudero,Francis Joseph,G,Chiz,,10/10/1969,Sorsogon Sorsogon,
+16,2013,Senator,Estrada,Jose Pimentel,E,Jinggoy,Jr,2/17/1963,San Juan City,San Juan City
+16,2013,Senator,Guingona,Teofisto,T,TG,II,7/4/1928,San Juan City,San Juan City
+16,2013,Senator,Honasan,Gregorio,B,Gringo,II,3/14/1948,Baguio City,Manila
+16,2013,Senator,Lapid,Manuel,M,Lito,,10/25/1955,Pampanga,Pampanga
+16,2013,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+16,2013,Senator,Marcos,Ferdinand,R,Bongbong,,9/13/1957,Mandaluyong City,Ilocos Sur
+16,2013,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+16,2013,Senator,Pimentel,Aquilino,L,Koko,III,1/20/1964,Cagayan de Oro,Cagayan de Oro
+16,2013,Senator,Poe,Mary Grace Natividad ,L,Grace,,9/3/1968,Iloilo City,Quezon City
+16,2013,Senator,Revilla,Ramon,,Bong,Jr,9/25/1966,Cavite,Cavite
+16,2013,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+16,2013,Senator,Trillanes,Antonio ,F,Sonny,IV,8/6/1971,Caloocan City,Caloocan City
+16,2013,Senator,Villar,Cynthia,A,,,7/29/1950,Muntinlupa City,Las Pinas City
+15,2010,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+15,2010,Senator,Estrada,Jose Pimentel,E,Jinggoy,Jr,2/17/1963,San Juan City,San Juan City
+15,2010,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+15,2010,Senator,Cayetano,Alan Peter,S,,,10/28/1970,Taguig City,Taguig City
+15,2010,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+15,2010,Senator,Arroyo,Ceferino,P,Joker,Jr,1/5/1927,Camarines Sur,Makati City
+15,2010,Senator,Cayetano,Pia Juliana,S,Pia,,5/22/1966,Taguig City,Taguig City
+15,2010,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+15,2010,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+15,2010,Senator,Escudero,Francis Joseph,G,Chiz,,10/10/1969,Sorsogon Sorsogon,
+15,2010,Senator,Guingona,Teofisto,T,TG,II,7/4/1928,San Juan City,San Juan City
+15,2010,Senator,Honasan,Gregorio,B,Gringo,II,3/14/1948,Baguio City,Manila
+15,2010,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+15,2010,Senator,Lapid,Manuel,M,Lito,,10/25/1955,Pampanga,Pampanga
+15,2010,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+15,2010,Senator,Marcos,Ferdinand,R,Bongbong,,9/13/1957,Mandaluyong City,Ilocos Sur
+15,2010,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+15,2010,Senator,Pangilinan,Francis,N,Kiko,,8/24/1963,Pampanga,Quezon City
+15,2010,Senator,Pimentel,Aquilino,L,Koko,III,1/20/1964,Cagayan de Oro,Cagayan de Oro
+15,2010,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+15,2010,Senator,Revilla,Ramon,,Bong,Jr,9/25/1966,Cavite,Cavite
+15,2010,Senator,Trillanes,Antonio ,F,Sonny,IV,8/6/1971,Caloocan City,Caloocan City
+15,2010,Senator,Villar,Manuel,B,Manny,,12/13/1949,Manila,Las Pinas City
+15,2010,Senator,Zubiri,Juan Miguel,F,Migz,,4/13/1969,Makati City,Bukidnon
+14,2007,Senator,Villar,Manuel,B,Manny,,12/13/1949,Manila,Las Pinas City
+14,2007,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+14,2007,Senator,Estrada,Jose Pimentel,E,Jinggoy,Jr,2/17/1963,San Juan City,San Juan City
+14,2007,Senator,Pangilinan,Francis,N,Kiko,,8/24/1963,Pampanga,Quezon City
+14,2007,Senator,Zubiri,Juan Miguel,F,Migz,,4/13/1969,Makati City,Bukidnon
+14,2007,Senator,Pimentel,Aquilino,Q,Nene,Jr,12/11/1933,Cagayan de Oro,Cagayan de Oro
+14,2007,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+14,2007,Senator,Aquino,Paulo Benigno,A,Bam,IV,5/7/1977,Tarlac,Tarlac
+14,2007,Senator,Arroyo,Ceferino,P,Joker,Jr,1/5/1927,Camarines Sur,Makati City
+14,2007,Senator,Biazon,Rodolfo,G,Pong,,4/14/1935,Ilocos Norte,Muntinlupa City
+14,2007,Senator,Cayetano,Alan Peter,S,,,10/28/1970,Taguig City,Taguig City
+14,2007,Senator,Cayetano,Pia Juliana,S,Pia,,5/22/1966,Taguig City,Taguig City
+14,2007,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+14,2007,Senator,Escudero,Francis Joseph,G,Chiz,,10/10/1969,Sorsogon Sorsogon,
+14,2007,Senator,Gordon,Richard,J,Dick,Sr,8/5/1945,Zambales,Zambales
+14,2007,Senator,Honasan,Gregorio,B,Gringo,II,3/14/1948,Baguio City,Manila
+14,2007,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+14,2007,Senator,Lapid,Manuel,M,Lito,,10/25/1955,Pampanga,Pampanga
+14,2007,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+14,2007,Senator,Madrigal,Maria Ana Consuelo,AS,Jamby,,4/26/1958,Manila,Manila
+14,2007,Senator,Revilla,Ramon,,Bong,Jr,9/25/1966,Cavite,Cavite
+14,2007,Senator,Roxas,Manuel,A,Mar,,5/13/1957,Manila,Manila
+14,2007,Senator,Trillanes,Antonio ,F,Sonny,IV,8/6/1971,Caloocan City,Caloocan City
+13,2004,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+13,2004,Senator,Villar,Manuel,B,Manny,,12/13/1949,Manila,Las Pinas City
+13,2004,Senator,Flavier,Juan,M,,,6/23/1935,Manila,Manila
+13,2004,Senator,Pangilinan,Francis,N,Kiko,,8/24/1963,Pampanga,Quezon City
+13,2004,Senator,Pimentel,Aquilino,Q,Nene,Jr,12/11/1933,Cagayan de Oro,Cagayan de Oro
+13,2004,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+13,2004,Senator,Arroyo,Ceferino,P,Joker,Jr,1/5/1927,Camarines Sur,Makati City
+13,2004,Senator,Biazon,Rodolfo,G,Pong,,4/14/1935,Ilocos Norte,Muntinlupa City
+13,2004,Senator,Cayetano,Pia Juliana,S,Pia,,5/22/1966,Taguig City,Taguig City
+13,2004,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+13,2004,Senator,Ejercito-Estrada,Luisa,P,Loi,,6/2/1930,Zambales,Zambales
+13,2004,Senator,Gordon,Richard,J,Dick,Sr,8/5/1945,Zambales,SZambales
+13,2004,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+13,2004,Senator,Estrada,Jose Pimentel,E,Jinggoy,Jr,2/17/1963,San Juan City,San Juan City
+13,2004,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+13,2004,Senator,Lapid,Manuel,M,Lito,,10/25/1955,Pampanga,Pampanga
+13,2004,Senator,Lim,Alfredo,S,Fred,,12/21/1929,Manila,Manila
+13,2004,Senator,Madrigal,Maria Ana Consuelo,AS,Jamby,,4/26/1958,Manila,Manila
+13,2004,Senator,Magsaysay,Ramon,B,,Jr,6/5/1938,Manila,Manila
+13,2004,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+13,2004,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+13,2004,Senator,Revilla,Ramon,,Bong,Jr,9/25/1966,Cavite,Cavite
+13,2004,Senator,Roxas,Manuel,A,Mar,,5/13/1957,Manila,Manila
+12,2001,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+12,2001,Senator,Villar,Manuel,B,Manny,,12/13/1949,Manila,Las Pinas City
+12,2001,Senator,Flavier,Juan,M,,,6/23/1935,Manila,Manila
+12,2001,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+12,2001,Senator,Pangilinan,Francis,N,Kiko,,8/24/1963,Pampanga,Quezon City
+12,2001,Senator,Pimentel,Aquilino,Q,Nene,Jr,12/11/1933,Cagayan de Oro,Cagayan de Oro
+12,2001,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+12,2001,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+12,2001,Senator,Aquino-Oreta,Maria Teresa,A,Tessie,,6/28/1944,Tarlac,Tarlac
+12,2001,Senator,Arroyo,Ceferino,P,Joker,Jr,1/5/1927,Camarines Sur,Makati City
+12,2001,Senator,Barbers,Robert,Z,Bobby,,1/19/1944,Surigao City,Surigao City
+12,2001,Senator,Biazon,Rodolfo,G,Pong,,4/14/1935,Ilocos Norte,Muntinlupa City
+12,2001,Senator,Cayetano,Renato,L,Rene,,12/12/1934,Pangasinan,Pangasinan
+12,2001,Senator,De Castro,Manuel Leuterio,L,Noli,,7/6/1949,Oriental Mindoro,Quezon City
+12,2001,Senator,Ejercito-Estrada,Luisa,P,Loi,,6/2/1930,Zambales,Zambales
+12,2001,Senator,Honasan,Gregorio,B,Gringo,II,3/14/1948,Baguio City,Manila
+12,2001,Senator,Jaworski,Robert,S,Jawo,,3/8/1946,Manila,Manila
+12,2001,Senator,Lacson,Panfilo,M,Ping,,6/1/1948,Cavite,Cavite
+12,2001,Senator,Magsaysay,Ramon,B,,Jr,6/5/1938,Manila,Manila
+12,2001,Senator,Ople,Blas,F,,,2/3/1927,Bulacan,Bulacan
+12,2001,Senator,Osmena,John Henry,R,,,1/17/1936,Cebu,Cebu
+12,2001,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+12,2001,Senator,Recto,Ralph,G,,,1/11/1964,Quezon City,Batangas
+12,2001,Senator,Revilla,Ramon,B,,Sr,3/8/1927,Cavite,Taguig
+11,1998,Senator,Fernan,Marcelo,B,Celing,,10/24/1926,Cebu,Cebu
+11,1998,Senator,Ople,Blas,F,,,2/3/1927,Bulacan,Bulacan
+11,1998,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+11,1998,Senator,Pimentel,Aquilino,Q,Nene,Jr,12/11/1933,Cagayan de Oro,Cagayan de Oro
+11,1998,Senator,Ople,Blas,F,,,2/3/1927,Bulacan,Bulacan
+11,1998,Senator,Osmena,John Henry,R,,,1/17/1936,Cebu,Cebu
+11,1998,Senator,Tatad,Francisco,S,Kit,,10/4/1939,Catanduanes,Catanduanes
+11,1998,Senator,Guigona,Teofisto,T,,Jr,7/4/1928,San Juan City,San Juan City
+11,1998,Senator,Aquino-Oreta,Maria Teresa,A,Tessie,,6/28/1944,Tarlac,Tarlac
+11,1998,Senator,Barbers,Robert,Z,Bobby,,1/19/1944,Surigao City,Surigao City
+11,1998,Senator,Biazon,Rodolfo,G,Pong,,4/14/1935,Ilocos Norte,Muntinlupa City
+11,1998,Senator,Cayetano,Renato,L,Rene,,12/12/1934,Pangasinan,Pangasinan
+11,1998,Senator,Coseteng,Anna Dominique,ML,Nikki,,12/18/1952,Manila,Manila
+11,1998,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+11,1998,Senator,Flavier,Juan,M,,,6/23/1935,Manila,Manila
+11,1998,Senator,Honasan,Gregorio,B,,II,3/14/1948,Baguio City,Manila
+11,1998,Senator,Jaworski,Robert,S,Jawo,,3/8/1946,Manila,Manila
+11,1998,Senator,Legarda,Lorna Regina,B,Loren,,1/28/1960,Malabon City,Malabon City
+11,1998,Senator,Magsaysay,Ramon,B,,Jr,6/5/1938,Manila,Manila
+11,1998,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+11,1998,Senator,Revilla,Ramon,B,,Sr,3/8/1927,Cavite,Taguig
+11,1998,Senator,Roco,Raul,S,,,10/26/1941,Camarines Sur,Camarines Sur
+11,1998,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+11,1998,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+10,1995,Senator,Maceda,Ernesto,M,Ernie,,3/26/1935,Laguna,Laguna
+10,1995,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+10,1995,Senator,Gonzales,Neptali,A,,,6/10/1923,Rizal,Rizal
+10,1995,Senator,Ramos-Shahani,Leticia,V,,,9/30/1929,Pangasinan,Pangasinan
+10,1995,Senator,Ople,Blas,F,,,2/3/1927,Bulacan,Bulacan
+10,1995,Senator,Romulo,Alberto,G,,,8/7/1933,Tarlac,Tarlac
+10,1995,Senator,Tatad,Francisco,S,Kit,,10/4/1939,Catanduanes,Catanduanes
+10,1995,Senator,Drilon,Franklin,M,Frank,,11/28/1945,Iloilo City,IloIlo City
+10,1995,Senator,Tanada,Wigberto,E,Bobby,Sr,8/13/1934,Quezon,Quezon
+10,1995,Senator,Alvarez,Heherson,T,Sonny,,10/16/1939,Isabela,Isabela
+10,1995,Senator,Coseteng,Anna Dominique,ML,Nikki,,12/18/1952,Manila,Manila
+10,1995,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+10,1995,Senator,Fernan,Marcelo,B,Celing,,10/24/1926,Cebu,Cebu
+10,1995,Senator,Flavier,Juan,M,,,6/23/1935,Manila,Manila
+10,1995,Senator,Herrera,Ernesto,F,Boy,,9/11/1942,Cebu,Cebu
+10,1995,Senator,Honasan,Gregorio,B,,II,3/14/1948,Baguio City,Manila
+10,1995,Senator,Macapagal-Arroyo,Gloria,M,,,4/5/1947,Rizal,Rizal
+10,1995,Senator,Magsaysay,Ramon,B,,Jr,6/5/1938,Manila,Manila
+10,1995,Senator,Mercado,Orlando,S,,,4/26/1946,Manila,Manila
+10,1995,Senator,Osmena,Sergio,R,Serge,III,12/13/1943,Manila,IloIlo City
+10,1995,Senator,Revilla,Ramon,B,,Sr,3/8/1927,Cavite,Taguig
+10,1995,Senator,Roco,Raul,S,,,10/26/1941,Camarines Sur,Camarines Sur
+10,1995,Senator,Defensor-Santiago,Miriam,P,,,6/15/1945,Iloilo City,Quezon City
+10,1995,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+10,1995,Senator,Webb,Freddie ,N,,,11/24/1942,Manila,Manila
+9,1992,Senator,Gonzales,Neptali,A,,,6/10/1923,Rizal,Rizal
+9,1992,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+9,1992,Senator,Maceda,Ernesto,M,Ernie,,3/26/1935,Laguna,Laguna
+9,1992,Senator,Guigona,Teofisto,T,,Jr,7/4/1928,San Juan City,San Juan City
+9,1992,Senator,Ramos-Shahani,Leticia,V,,,9/30/1929,Pangasinan,Pangasinan
+9,1992,Senator,Romulo,Alberto,G,,,8/7/1933,Tarlac,Tarlac
+9,1992,Senator,Tanada,Wigberto,E,Bobby,Sr,8/13/1934,Quezon,Quezon
+9,1992,Senator,Alvarez,Heherson,T,Sonny,,10/16/1939,Isabela,Isabela
+9,1992,Senator,Aquino,Agapito,A,Butz,,5/20/1939,Manila,Manila
+9,1992,Senator,Biazon,Rodolfo,G,Pong,,4/14/1935,Ilocos Norte,Muntinlupa City
+9,1992,Senator,Coseteng,Anna Dominique,ML,Nikki,,12/18/1952,Manila,Manila
+9,1992,Senator,Herrera,Ernesto,F,Boy,,9/11/1942,Cebu,Cebu
+9,1992,Senator,Lina,Jose,D,,Jr,12/22/1951,Laguna,Laguna
+9,1992,Senator,Macapagal-Arroyo,Gloria,M,,,4/5/1947,Rizal,Rizal
+9,1992,Senator,Mercado,Orlando,S,,,4/26/1946,Manila,Manila
+9,1992,Senator,Ople,Blas,F,,,2/3/1927,Bulacan,Bulacan
+9,1992,Senator,Osmena,John Henry,R,,,1/17/1936,Cebu,Cebu
+9,1992,Senator,Rasul,Santanina,T,Nina,,9/14/1930,Sulu,Quezon City
+9,1992,Senator,Revilla,Ramon,B,,Sr,3/8/1927,Cavite,Taguig
+9,1992,Senator,Roco,Raul,S,,,10/26/1941,Camarines Sur,Camarines Sur
+9,1992,Senator,Sotto,Vicente,C,,III,8/24/1948,Manila,Quezon City
+9,1992,Senator,Tatad,Francisco,S,Kit,,10/4/1939,Catanduanes,Catanduanes
+9,1992,Senator,Tolentino,Arturo,M,Turing,,9/19/1910,Manila,Manila
+9,1992,Senator,Webb,Freddie ,N,,,11/24/1942,Manila,Manila
+8,1987,Senator,Salonga,Jovito,R,Jovy,,6/22/1920,Pasig,Pasig
+8,1987,Senator,Gonzales,Neptali,A,,,6/10/1923,Rizal,Rizal
+8,1987,Senator,Guigona,Teofisto,T,,Jr,7/4/1928,San Juan City,San Juan City
+8,1987,Senator,Laurel,Sotero Cosme,H,Teroy,,9/27/1918,Batangas,Batangas
+8,1987,Senator,Maceda,Ernesto,M,Ernie,,3/26/1935,Laguna,Laguna
+8,1987,Senator,Mercado,Orlando,S,,,4/26/1946,Manila,Manila
+8,1987,Senator,Enrile,Juan Ponce,F,,,2/14/1924,Cagayan,Makati City
+8,1987,Senator,Tanada,Wigberto,E,Bobby,Sr,8/13/1934,Quezon,Quezon
+8,1987,Senator,Alvarez,Heherson,T,Sonny,,10/16/1939,Isabela,Isabela
+8,1987,Senator,Angara,Edgardo,J,,,9/24/1934,Aurora,Aurora
+8,1987,Senator,Aquino,Agapito,A,Butz,,5/20/1939,Manila,Manila
+8,1987,Senator,Herrera,Ernesto,F,Boy,,9/11/1942,Cebu,Cebu
+8,1987,Senator,Lina,Jose,D,,Jr,12/22/1951,Laguna,Laguna
+8,1987,Senator,Manglapus,Raul,S,,,10/20/1918,Rizal,Rizal
+8,1987,Senator,Osmena,John Henry,R,,,1/17/1936,Cebu,Cebu
+8,1987,Senator,Paterno,Vicente,T,,,11/18/1925,Manila,Manila
+8,1987,Senator,Pimentel,Aquilino,Q,Nene,Jr,12/11/1933,Cagayan de Oro,Cagayan de Oro
+8,1987,Senator,Saguisag,Rene,AV,,,8/14/1939,Quezon,Quezon
+8,1987,Senator,Rasul,Santanina,T,Nina,,9/14/1930,Sulu,Quezon City
+8,1987,Senator,Ramos-Shahani,Leticia,V,,,9/30/1929,Pangasinan,Pangasinan
+8,1987,Senator,Tamano,Mamintal,H,,,12/25/1928,Lanao,Lanao
+8,1987,Senator,Ziga,Victor,S,Vic,,9/30/1945,Albay,Albay
+7,1970,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+7,1970,Senator,Roy,Jose,J,,,7/19/1904,Tarlac,Tarlac
+7,1970,Senator,Tolentino,Arturo,M,Turing,,9/19/1910,Manila,Manila
+7,1970,Senator,Roxas,Gerardo Manuel,M,Gerry,,8/25/1924,Manila,Manila
+7,1970,Senator,Almendras,Alejandro,D,,,2/27/1919,Cebu,Cebu
+7,1970,Senator,Antonino,Magnolia,W,,,12/14/1915,La Union,La Union
+7,1970,Senator,Aquino,Benigno,S,Ninoy,Jr,11/27/1932,Tarlac,Tarlac
+7,1970,Senator,Aytona,Dominador,R,,,5/23/1918,Albay,Albay
+7,1970,Senator,Benitez,Helena,Z,,,6/27/1914,Manila,Manila
+7,1970,Senator,Diokno,Jose,W,,,2/26/1922,Manila,Manila
+7,1970,Senator,Espina,Jesus Marino,,Rene,,12/26/1929,Cebu,Cebu
+7,1970,Senator,Ilarde,Edgar,U,,,8/25/1934,Camarines Sur,Camarines Sur
+7,1970,Senator,Estrada-Kalaw,Evangelina,,Eva,,6/16/1920,Tarlac,Tarlac
+7,1970,Senator,Lagumbay,Wenceslao,R,,,9/28/1913,Laguna,Laguna
+7,1970,Senator,Laurel,Salvador Roman,H,Doy,,11/18/1928,Manila,Manila
+7,1970,Senator,Maceda,Ernesto,M,Ernie,,3/26/1935,Laguna,Laguna
+7,1970,Senator,Magsaysay,Genaro,F,,,9/19/1924,Zambales,Zambales
+7,1970,Senator,Mitra,Ramon,V,,Jr,2/4/1928,Palawan,Palawan
+7,1970,Senator,Osmena,John Henry,R,,,1/17/1936,Cebu,Cebu
+7,1970,Senator,Osmena,Sergio,V,,Jr,12/4/1916,Cebu,Cebu
+7,1970,Senator,Padilla,Ambrosio,B,Bibby,,12/7/1910,Manila,Manila
+7,1970,Senator,Pelaez,Emmanuel,N,,,11/30/1915,Misamis Oriental,Misamis Oriental
+7,1970,Senator,Perez,Leonardo,B,,,11/22/1925,Nueva Vizcaya,Nueva Vizcaya
+7,1970,Senator,Salonga,Jovito,R,Jovy,,6/22/1920,Pasig,Pasig
+7,1970,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+7,1970,Senator,Tamano,Mamintal,H,,,12/25/1928,Lanao,Lanao
+7,1970,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+7,1970,Senator,Teves,Lorenzo,G,,,4/29/1918,Negros Oriental,Negros Oriental
+6,1966,Senator,Tolentino,Arturo,M,Turing,,9/19/1910,Manila,Manila
+6,1966,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+6,1966,Senator,Roy,Jose,J,,,7/19/1904,Tarlac,Tarlac
+6,1966,Senator,Padilla,Ambrosio,B,Bibby,,12/7/1910,Manila,Manila
+6,1966,Senator,Almendras,Alejandro,D,,,2/27/1919,Cebu,Cebu
+6,1966,Senator,Antonino,Magnolia,W,,,12/14/1915,La Union,La Union
+6,1966,Senator,Antonino,Gaudencio,E,,,2/9/1909,Nueva Ecija,Nueva Ecija
+6,1966,Senator,Aquino,Benigno,S,Ninoy,Jr,11/27/1932,Tarlac,Tarlac
+6,1966,Senator,Aytona,Dominador,R,,,5/23/1918,Albay,Albay
+6,1966,Senator,Diokno,Jose,W,,,2/26/1922,Manila,Manila
+6,1966,Senator,Ganzon,Rodolfo,T,,,3/22/1922,Iloilo City,IloIlo City
+6,1966,Senator,Estrada-Kalaw,Evangelina,,Eva,,6/16/1920,Tarlac,Tarlac
+6,1966,Senator,Kalaw-Katigbak,Maria,V,,,2/14/1912,Manila,Manila
+6,1966,Senator,Lagumbay,Wenceslao,R,,,9/28/1913,Laguna,Laguna
+6,1966,Senator,Liwag,Juan,R,,,6/12/1906,Nueva Ecija,Nueva Ecija
+6,1966,Senator,Magsaysay,Genaro,F,,,9/19/1924,Zambales,Zambales
+6,1966,Senator,Manahan,Manuel,P,,,1/1/1916,Manila,Manila
+6,1966,Senator,Manglapus,Raul,S,,,10/20/1918,Rizal,Rizal
+6,1966,Senator,Osias,Camilo,O,,,03/28/1889,La Union,La Union
+6,1966,Senator,Osmena,Sergio,V,,Jr,12/4/1916,Cebu,Cebu
+6,1966,Senator,Pelaez,Emmanuel,N,,,11/30/1915,Misamis Oriental,Misamis Oriental
+6,1966,Senator,Perez,Leonardo,B,,,11/22/1925,Nueva Vizcaya,Nueva Vizcaya
+6,1966,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+6,1966,Senator,Rodrigo,Francisco,A,Soc,,1/29/1914,Bulacan,Bulacan
+6,1966,Senator,Roxas,Gerardo Manuel,M,Gerry,,8/25/1924,Manila,Manila
+6,1966,Senator,Salonga,Jovito,R,Jovy,,6/22/1920,Pasig,Pasig
+6,1966,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+6,1966,Senator,Teves,Lorenzo,G,,,4/29/1918,Negros Oriental,Negros Oriental
+6,1966,Senator,Ziga,Tecla,SA,,,8/23/1906,Camarines Sur,Camarines Sur
+5,1962,Senator,Marcos,Ferdinand,E,Macoy,,9/11/1917,Ilocos Norte,Ilocos Norte
+5,1962,Senator,Lopez,Fernando,H,,,4/13/1904,IloIlo,IloIlo
+5,1962,Senator,Primicias,Cipriano,P,,Sr,9/14/1901,Pangasinan,Pangasinan
+5,1962,Senator,Fernandez,Estanislao,A,,,3/28/1910,Laguna,Laguna
+5,1962,Senator,Almendras,Alejandro,D,,,2/27/1919,Cebu,Cebu
+5,1962,Senator,Antonino,Gaudencio,E,,,2/9/1909,Nueva Ecija,Nueva Ecija
+5,1962,Senator,Balao,Eulogio,B,,,3/11/1907,Cagayan,Cagayan
+5,1962,Senator,Cuenco,Mariano Jesus,L,,,01/16/1888,Cebu,Cebu
+5,1962,Senator,De La Rosa,Rogelio,,,,11/12/1916,Pampanga,Pampanga
+5,1962,Senator,Ganzon,Rodolfo,T,,,3/22/1922,Iloilo City,IloIlo City
+5,1962,Senator,Kalaw-Katigbak,Maria,V,,,2/14/1912,Manila,Manila
+5,1962,Senator,Ledesma,Oscar,,,,4/3/1902,,
+5,1962,Senator,Lim,Roseller,T,,,2/9/1915,Zamboanga,Zamboanga
+5,1962,Senator,Liwag,Juan,R,,,6/12/1906,Nueva Ecija,Nueva Ecija
+5,1962,Senator,Magsaysay,Genaro,F,,,9/19/1924,Zambales,Zambales
+5,1962,Senator,Manahan,Manuel,P,,,1/1/1916,Manila,Manila
+5,1962,Senator,Manglapus,Raul,S,,,10/20/1918,Rizal,Rizal
+5,1962,Senator,Osias,Camilo,O,,,03/28/1889,La Union,La Union
+5,1962,Senator,Padilla,Ambrosio,B,Bibby,,12/7/1910,Manila,Manila
+5,1962,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+5,1962,Senator,Rodrigo,Francisco,A,Soc,,1/29/1914,Bulacan,Bulacan
+5,1962,Senator,Rodriguez,Eulogio,A,Amang,,01/21/1883,Rizal,Rizal
+5,1962,Senator,Roy,Jose,J,,,7/19/1904,Tarlac,Tarlac
+5,1962,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+5,1962,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+5,1962,Senator,Tolentino,Arturo,M,Turing,,9/19/1910,Manila,Manila
+4,1958,Senator,Rodriguez,Eulogio,A,Amang,,01/21/1883,Rizal,Rizal
+4,1958,Senator,Lopez,Fernando,H,,,4/13/1904,IloIlo,IloIlo
+4,1958,Senator,Primicias,Cipriano,P,,Sr,9/14/1901,Pangasinan,Pangasinan
+4,1958,Senator,Padilla,Ambrosio,B,Bibby,,12/7/1910,Manila,Manila
+4,1958,Senator,Alonto,Domocao,A,Domie,,8/1/1914,Lanao,Lanao
+4,1958,Senator,Balao,Eulogio,B,,,3/11/1907,Cagayan,Cagayan
+4,1958,Senator,Cea,Edmundo,B,,,6/10/1911,Camarines Sur,Camarines Sur
+4,1958,Senator,Cuenco,Mariano Jesus,L,,,01/16/1888,Cebu,Cebu
+4,1958,Senator,De La Rosa,Rogelio,,,,11/12/1916,Pampanga,Pampanga
+4,1958,Senator,Madrigal Gonzales,Patricia,P,,,5/4/1915,Manila,Manila
+4,1958,Senator,Kangleon,Ruperto,C,,,03/27/1890,Leyte,Leyte
+4,1958,Senator,Ledesma,Oscar,,,,4/3/1902,,
+4,1958,Senator,Lim,Roseller,T,,,2/9/1915,Zamboanga,Zamboanga
+4,1958,Senator,Mabanag,Alejo,R,,,07/04/1886,La Union,La Union
+4,1958,Senator,Paredes,Quintin,B,,,09/09/1884,Abra,Abra
+4,1958,Senator,Pelaez,Emmanuel,N,,,11/30/1915,Misamis Oriental,Misamis Oriental
+4,1958,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+4,1958,Senator,Recto,Claro,M,,,02/08/1890,Quezon,Quezon
+4,1958,Senator,Rodrigo,Francisco,A,Soc,,1/29/1914,Bulacan,Bulacan
+4,1958,Senator,Rosales,Decoroso,R,,,12/20/1907,Samar,Samar
+4,1958,Senator,Sabido,Pedro,R,,,10/19/1894,Albay,Albay
+4,1958,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+4,1958,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+4,1958,Senator,Tolentino,Arturo,M,Turing,,9/19/1910,Manila,Manila
+3,1954,Senator,Rodriguez,Eulogio,A,Amang,,01/21/1883,Rizal,Rizal
+3,1954,Senator,Briones,Manuel,C,,,01/01/1893,Cebu,Cebu
+3,1954,Senator,Primicias,Cipriano,P,,Sr,9/14/1901,Pangasinan,Pangasinan
+3,1954,Senator,Alonto,Domocao,A,Domie,,8/1/1914,Lanao,Lanao
+3,1954,Senator,Cabili,Tomas,L,,,3/7/1903,Lanao,Lanao
+3,1954,Senator,Cea,Edmundo,B,,,6/10/1911,Camarines Sur,Camarines Sur
+3,1954,Senator,Cuenco,Mariano Jesus,L,,,01/16/1888,Cebu,Cebu
+3,1954,Senator,Delgado,Francisco,A,,,01/25/1886,Bulacan,Bulacan
+3,1954,Senator,Kangleon,Ruperto,C,,,03/27/1890,Leyte,Leyte
+3,1954,Senator,Laurel,Jose Paciano,P,,Sr,03/9/1891,Batangas,Batangas
+3,1954,Senator,Ledesma,Oscar,,,,4/3/1902,,
+3,1954,Senator,Lim,Roseller,T,,,2/9/1915,Zamboanga,Zamboanga
+3,1954,Senator,Locsin,Jose,C,,,08/27/1891,Negros Oriental,Negros Oriental
+3,1954,Senator,Lopez,Fernando,H,,,4/13/1904,IloIlo,IloIlo
+3,1954,Senator,Mabanag,Alejo,R,,,07/04/1886,La Union,La Union
+3,1954,Senator,Madrigal Gonzales,Patricia,P,,,5/4/1915,Manila,Manila
+3,1954,Senator,Magalona,Enrique,B,,,11/5/1891,Negros Occidental,Negros Occidental
+3,1954,Senator,Padilla,Ambrosio,B,Bibby,,12/7/1910,Manila,Manila
+3,1954,Senator,Paredes,Quintin,B,,,09/09/1884,Abra,Abra
+3,1954,Senator,Pelaez,Emmanuel,N,,,11/30/1915,Misamis Oriental,Misamis Oriental
+3,1954,Senator,Peralta,Macario,,,Jr,7/30/1913,Pangasinan,Pangasinan
+3,1954,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+3,1954,Senator,Recto,Claro,M,,,02/08/1890,Quezon,Quezon
+3,1954,Senator,Rodrigo,Francisco,A,Soc,,1/29/1914,Bulacan,Bulacan
+3,1954,Senator,Rosales,Decoroso,R,,,12/20/1907,Samar,Samar
+3,1954,Senator,Sabido,Pedro,R,,,10/19/1894,Albay,Albay
+3,1954,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+3,1954,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+3,1954,Senator,Zulueta,Jose,C,,,11/23/1876,Manila,Manila
+2,1950,Senator,Cuenco,Mariano Jesus,L,,,01/16/1888,Cebu,Cebu
+2,1950,Senator,Paredes,Quintin,B,,,09/09/1884,Abra,Abra
+2,1950,Senator,Cabili,Tomas,L,,,3/7/1903,Lanao,Lanao
+2,1950,Senator,Garcia,Carlos,P,,,11/4/1896,Bohol,Bohol
+2,1950,Senator,Abada,Esteban,R,,,03/15/1896,Negros Occidental,Negros Occidental
+2,1950,Senator,Arranz,Melecio,,,,05/24/1888,Ilocos Sur,Ilocos Sur
+2,1950,Senator,Avelino,Jose,,,,08/05/1890,Samar,Samar
+2,1950,Senator,Briones,Manuel,C,,,01/01/1893,Cebu,Cebu
+2,1950,Senator,Confesor,Tomas,,,,03/02/1891,Iloilo,Iloilo
+2,1950,Senator,David,Pablo,A,,,08/17/1889,Pampanga,Pampanga
+2,1950,Senator,Delgado,Francisco,A,,,01/25/1886,Bulacan,Bulacan
+2,1950,Senator,Laurel,Jose Paciano,P,,Sr,03/9/1891,Batangas,Batangas
+2,1950,Senator,Locsin,Jose,C,,,08/27/1891,Negros Oriental,Negros Oriental
+2,1950,Senator,Madrigal,Vicente,P,,,04/05/1880,Albay,Albay
+2,1950,Senator,Magalona,Enrique,B,,,11/5/1891,Negros Occidental,Negros Occidental
+2,1950,Senator,Montano,Justiniano,S,,,9/5/1905,Cavite,Cavite
+2,1950,Senator,Osias,Camilo,O,,,03/28/1889,La Union,La Union
+2,1950,Senator,Pecson,Geronima,T,,,12/19/1896,Pangasinan,Pangasinan
+2,1950,Senator,Peralta,Macario,,,Jr,7/30/1913,Pangasinan,Pangasinan
+2,1950,Senator,Primicias,Cipriano,P,,Sr,9/14/1901,Pangasinan,Pangasinan
+2,1950,Senator,Puyat,Gil,J,,,9/1/1907,Manila,Manila
+2,1950,Senator,Recto,Claro,M,,,02/08/1890,Quezon,Quezon
+2,1950,Senator,Rodriguez,Eulogio,A,Amang,,01/21/1883,Rizal,Rizal
+2,1950,Senator,Sotto,Vicente,Y,,,04/18/1877,Cebu,Cebu
+2,1950,Senator,Sumulong,Lorenzo,,,,9/5/1905,Rizal,Rizal
+2,1950,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+2,1950,Senator,Tirona,Emiliano,T,,,06/12/1882,Cavite,Cavite
+2,1950,Senator,Torres,Ramon,A,,,06/12/1891,Negros Occidental,Negros Occidental
+2,1950,Senator,Zulueta,Jose,C,,,11/23/1876,Manila,Manila
+1,1946,Senator,Avelino,Jose,D,,,08/05/1890,Samar,Samar
+1,1946,Senator,Arranz,Melecio,,,,05/24/1888,Ilocos Sur,Ilocos Sur
+1,1946,Senator,Francisco ,Vicente,,,,07/19/1891,Cavite,Cavite
+1,1946,Senator,Garcia,Carlos,P,,,11/4/1896,Bohol,Bohol
+1,1946,Senator,Buendia,Nicolas,,,,03/12/1879,Bulacan,Bulacan
+1,1946,Senator,Cabili,Tomas,L,,,3/7/1903,Lanao,Lanao
+1,1946,Senator,Clarin,Olegario,B,,,03/06/1892,Bohol,Bohol
+1,1946,Senator,Confesor,Tomas,,,,03/02/1891,Iloilo,Iloilo
+1,1946,Senator,Cuenco,Mariano Jesus,L,,,01/16/1888,Cebu,Cebu
+1,1946,Senator,David,Pablo,A,,,08/17/1889,Pampanga,Pampanga
+1,1946,Senator,Diokno,Ramon,M,,,03/28/1886,Batangas,Batangas
+1,1946,Senator,Henaez,Pedro,C,,,12/12/1899,Negros Occidental,Negros Occidental
+1,1946,Senator,Imperial,Domingo,,,,08/04/1890,Albay,Albay
+1,1946,Senator,Lopez,Fernando,,,,4/13/1904,Iloilo,Iloilo
+1,1946,Senator,Mabanag,Alejo,,,,07/04/1886,La Union,La Union
+1,1946,Senator,Magalona,Enrique,B,,,11/5/1891,Negros Occidental,Negros Occidental
+1,1946,Senator,Osias,Camilo,O,,,03/28/1889,La Union,La Union
+1,1946,Senator,Pecson,Geronima,T,,,12/19/1896,Pangasinan,Pangasinan
+1,1946,Senator,Pendatun,Salipada,K,,,12/3/1912,Maguindanao,Maguindanao
+1,1946,Senator,Rama,Vicente,,,,06/06/1887,Cebu,Cebu
+1,1946,Senator,De La Rama,Esteban,,,,12/26/1866,Iloilo,Iloilo
+1,1946,Senator,Rodriguez,Eulogio,A,Amang,,01/21/1883,Rizal,Rizal
+1,1946,Senator,Romero,Jose,E,,,03/03/1897,Negros Oriental,Negros Oriental
+1,1946,Senator,Sanidad,Prospero,,,,01/17/1897,Ilocos Sur,Ilocos Sur
+1,1946,Senator,Alonto,Alauya,,,,1898,Lanao,Lanao
+1,1946,Senator,Sebastian,Proceso,,,,1892,,
+1,1946,Senator,Sotto,Vicente,Y,,,04/18/1877,Cebu,Cebu
+1,1946,Senator,Tan,Carlos,,,,11/04/1893,Leyte,Leyte
+1,1946,Senator,Tanada,Lorenzo,M,Tanny,,08/10/1898,Quezon,Quezon
+1,1946,Senator,Tirona,Emiliano,T,,,06/12/1882,Cavite,Cavite
+1,1946,Senator,Torres,Ramon,A,,,06/12/1891,Negros Occidental,Negros Occidental
+1,1946,Senator,Vera,Jose,O,,,1888,,
